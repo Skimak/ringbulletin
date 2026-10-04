@@ -62,7 +62,7 @@ Make sure the following dependencies are installed:
 Clone the repository and build:
 
 ```bash
-git clone https://github.com/Skimlk/ringbulletin
+git clone https://github.com/Skimak/ringbulletin
 cd ringbulletin
 make
 ```
